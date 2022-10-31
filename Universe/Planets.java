@@ -13,6 +13,7 @@ protected double massa;
 protected String satelites;
 protected int idade;
 protected String descricao;
+
 protected double distancia;
     
 //#construtor;  
