@@ -1,4 +1,4 @@
-package Foguete;
+package NaveEspacial;
 
 public class Main {
 
